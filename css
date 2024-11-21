@@ -1,0 +1,82 @@
+/* General Reset */
+
+/* Resize using fixed dimensions */
+.resize-image {
+    width: 300px; /* Set width to 300 pixels */
+    height: auto; /* Automatically adjust height to maintain aspect ratio */
+}
+
+/* Optional: Make image responsive */
+.responsive-image {
+    max-width: 100%; /* Image fits within its container */
+    height: auto; /* Maintain aspect ratio */
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #04f7eb;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    margin: 10px 0 0;
+}
+
+.container {
+    max-width: 100%;
+    height:auto;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+
+main {
+    padding: 20px;
+    background: #fff;
+    margin: 20px auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #007bff;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #007bffab;
+    display: inline-block;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #0adbd1;
+    color: #fff;
+    margin-top: 20px;
+}
