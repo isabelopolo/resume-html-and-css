@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<head>
+    <style>
+          img {
+            display: block; /* Ensures proper alignment */
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <img src="image/sab.png.jpg"
+</body>
+
+
+<body>
+        
+        <div class="container">
+        
+      <header>
+            <h4>ISABELO P HINGPIS</h4>
+            <p>Web Developer | Designer </p>
+            
+        </div>
+    </header>
+
+    <main>
+        
+        <section id="Profile">
+            <h2>Profile</h2>
+            <p> I am Isabelo p hingpis i proficient in various IT tools and platforms, contributing to seamless operations and improved productivity..</p>
+        </section>
+        <section id="Summary">
+            <h2> Summary</h2>
+            <hr>
+            <ul>
+                <li>
+                    <p>Efficient and friendly cashier with 1 year experience operating point of sale system and 2 years of experience handling 300+ transactions per day.Excited to leverage excellent customer service skills and shift management experience to join the Home Depot team as a cashier(team lead).</p>
+                
+                </li>
+               
+            </ul>
+        </section>
+
+        <section id="experience">
+            <h2>Experience</h2>
+            <hr>
+            <ul>
+                <li>
+                    <h3> IT Specialist (with Cybersecurity Experience)</h3>
+                    <p>Jan 2020 - Present</p>
+                    <p>Developed and maintained scalable web applications.</p>
+                </li>
+                <li>
+                    <h3>Web Developer And Designer </h3>
+                    <p>Jun 2017 - Dec 2019</p>
+                    <p>Worked on front-end development and improved website performance by 30%.</p>
+                </li>
+            </ul>
+        </section>
+        <section id="Education">
+            <h2>Education</h2>
+            <hr>           
+            <ul>
+                <li>
+                    <h3> Asian Developed foundation college</h3>
+                    <p>2016-2018 - Present</p>
+                    <p>Master degree Information technology</p>
+                </li>
+                <li>
+                    <h3>Estern visayas State University </h3>
+                    <p>2014 - 2016</p>
+                    <p>Batchelor Degree Computer Science technology</p>
+                </li>
+            </ul>
+        </section>
+
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <hr>
+            <ul>
+                <li>HTML, CSS, JavaScript</li>
+                <li>React, Angular</li>
+                <li>Node.js, Express</li>
+                <li>UI/UX Design</li>
+            </ul>
+        </section>
+        <!--Personal Details Contact-->
+    <section>
+        <h2>Personal Details Contact</h2>
+        <hr>
+        <table border="2px">
+            <tr>
+                <td>
+                    <h3>Name:</h3>
+                </td>
+                <td>
+                    <p>HINGPIS ISABELO P </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Email Address:</h3>
+               <td>
+                    <p>isabepolo599@gmail.com </p>
+                </td>
+            </tr>    <tr>
+                <td>
+                    <h3>Phone number:</h3>
+                </td>
+                <td>
+                    <p>0909229913</p>
+                </td>
+            </tr>    <tr>
+                <td>
+                    <h3>Sex:</h3>
+                </td>
+                <td>
+                    <p>Male </p>
+                </td>
+            </tr>
+        </table>     </td>
+            
+    </section>
+
+       
+    </main>
+
+    <footer>
+        <p>&copy; 2024 isabepolo599.gmail.com</p>
+    </footer>
+</body>
+</html>
+
+
+
+
+
